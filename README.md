@@ -46,6 +46,9 @@ _|________|_[_________]_[________]_|__|________)<
 
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/brandommoore)
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/brandommoore/)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:brandommoore@gmail.com)
+[<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">](https://www.youtube.com/channel/UCWcRTNvSJZuFK4i0uBkAiug)
+[<img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">](https://www.twitch.tv/brandommoore)</br>
 [<img src="https://user-images.githubusercontent.com/29986345/135771930-b0e5cf15-3719-4934-9bca-4a5d3b35850f.png">](https://www.42madrid.com/)
 ![Nyancatmdpi](https://user-images.githubusercontent.com/29986345/135771959-d58cf4b6-09f0-4197-9427-e409ca069692.png)
 [<img src="https://user-images.githubusercontent.com/29986345/135771981-f5d0ed7a-9ea8-4d9a-92bb-dae14ff496dc.png">](https://derivative.ca/)
