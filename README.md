@@ -5,7 +5,6 @@ I´m a Digital Artist and Coder. I love any type of human-animal interaction wit
 __🌌 Everything you see can be transformed into art, magic and interaction 🌌__
 
 ```
-
 .         _  .          .          .    +     .          .          .      . .    .     .   :    .  . ... .    . .   . 
         .(_)          .            .            .            .       :     +         .    .   .    .    .   .    .  .
   .          .      .     .   .      .    .     .     .    .      .   .      . .  .  -+-        .       .  .  .    .  .
