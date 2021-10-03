@@ -2,7 +2,7 @@
 
 I´m a Digital Artist and Coder. I love any type of human-animal interaction with machines, and yes, that is good. One of my essential sayings is:
 
-                                 Everything you see can be transformed into art, magic and interaction.
+  Everything you see can be transformed into art, magic and interaction.
 
 I am currently learning coding at 42 madrid (yes, it is exciting)
 
