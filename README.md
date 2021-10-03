@@ -34,7 +34,7 @@ _|________|_[_________]_[________]_|__|________)<
 
 ### 🔭 Maker world 🪐 Maker Space 
 
-    💻 I am currently learning coding at 42 madrid (yes, it is exciting).
+    💻 I am currently learning coding at 42 Madrid Telefonica (yes, it is exciting).
     🔮 I´ve designed some videomappings, generative visuals and interaction experiences.
     🥽 I am looking to collaborate in any visual madness that needs code and interaction.
     🎯 Ask me about what you want, I don't have a blaster machine to use.
