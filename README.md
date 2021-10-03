@@ -13,7 +13,7 @@ __🌌 Everything you see can be transformed into art, magic and interaction �
     🥽 I am looking to collaborate in any visual madness that needs code and interaction.
     🎯 Ask me about what you want, I don't have a blaster machine to use.
     🪁 Yes, the emojis are a bit random, like me 😅
-    ⚡ My real name is Manu
+    ⚡ My real name is... 01001101 01100001 01101110 01110101
     
 ### 🎁 I have a present for you...
 
