@@ -1,10 +1,23 @@
-### Hi!! 👋 Meta-Digital-Human-Nature Morld!!! 🌍❤
+## Hi!! 👋 Meta-Digital-Human-Nature Morld!!! 🌍❤
 
 I´m a Digital Artist and Coder. I love any type of human-animal interaction with machines, and yes, that is good. One of my essential sayings is:
 
-    Everything you see can be transformed into art, magic and interaction.
+__🌌 Everything you see can be transformed into art, magic and interaction 🌌__
 
-I am currently learning coding at 42 madrid (yes, it is exciting)
+----------
+
+### 🔭 Maker world 🪐 Maker Space 
+
+    💻 I am currently learning coding at 42 madrid (yes, it is exciting).
+    🔮 I´ve designed some videomappings, generative visuals and interaction experiences.
+    🥽 I am looking to collaborate in any visual madness that needs code and interaction.
+    🎯 Ask me about what you want, I don't have a blaster machine to use.
+    🪁 Yes, the emojis are a bit random, like me 😅
+    ⚡ My real name is Manu
+    
+### 🎁 I have a present for you...
+
+
 
 <!--
 **Brandommoore/Brandommoore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
