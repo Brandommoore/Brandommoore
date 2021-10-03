@@ -43,7 +43,8 @@ _|________|_[_________]_[________]_|__|________)<
     
 ### 🎁 I have a present for you...
 
-
+[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/brandommoore)
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/brandommoore/)
 
 <!--
 **Brandommoore/Brandommoore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
