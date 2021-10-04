@@ -32,7 +32,7 @@ _|________|_[_________]_[________]_|__|________)<
 ```
 
 
-### 🔭 Maker world 🪐 Maker Space 
+### 🔭 Maker world 🛰 Maker Space 
 
     💻 I am currently learning coding at 42 Madrid Telefonica (yes, it is exciting).
     🔮 I´ve designed some videomappings, generative visuals and interaction experiences.
